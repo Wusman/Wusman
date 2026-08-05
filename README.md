@@ -1,7 +1,7 @@
 ### Hola, soy Guzmán 👋
 
-Estudiante de Tecnólogo en Informática (UdelaR) · Montevideo, Uruguay
-Construyo proyectos web de punta a punta y los pongo en producción.
+Estudiante de Tecnólogo en Informática · Montevideo, Uruguay
+Construyo proyectos web y los pongo en producción como hobby.
 
 🌐 [wusman.com](https://wusman.com) · 💼 [LinkedIn](https://www.linkedin.com/in/wusman19/) · 📫 contact@wusman.com
 
