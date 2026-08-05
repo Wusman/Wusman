@@ -1,7 +1,7 @@
 ### Hola, soy Guzmán 👋
 
-Estudiante de Tecnólogo en Informática · Montevideo, Uruguay
-Construyo proyectos web y los pongo en producción como hobby.
+Estudiante de Tecnólogo en Informática · Montevideo, Uruguay<br>
+Construyo proyectos web y los pongo en producción.
 
 🌐 [wusman.com](https://wusman.com) · 💼 [LinkedIn](https://www.linkedin.com/in/wusman19/) · 📫 contact@wusman.com
 
@@ -10,6 +10,10 @@ Construyo proyectos web y los pongo en producción como hobby.
 ### 🚀 Proyectos
 
 **[wusman.com](https://github.com/Wusman/wusman.com)** — portfolio interactivo.
+
+**[daily-arena](https://github.com/Wusman/daily-arena)** — arena de minijuegos diarios verificables, con ranking quincenal. Puzzles deterministas (misma semilla para todos) y anti-trampa server-side por replay.
+
+**[mistica-futbolera](https://github.com/Wusman/mistica-futbolera)** — juego 100% client-side: armá tu equipo de leyendas del fútbol europeo (1993–2025) y salí a ganar el torneo.
 
 ---
 
@@ -30,6 +34,6 @@ Construyo proyectos web y los pongo en producción como hobby.
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Wusman&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wusman&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="165" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="165" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
