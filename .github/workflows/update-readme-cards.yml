@@ -2,21 +2,18 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "0 0 * * *" # una vez por día
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
-    steps:
-      - uses: actions/checkout@v6
 
-      # Nota: stats y top-langs usan STATS_TOKEN (un Personal Access Token),
-      # no el GITHUB_TOKEN default, porque este último solo ve este repo
-      # (Wusman/Wusman) y no el resto de tus repos -> por eso daba 0 stars,
-      # pocos commits y "No languages data".
+    steps:
+      - uses: actions/checkout@v4
 
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v2
